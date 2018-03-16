@@ -5,7 +5,7 @@ using TestNinja.Fundamentals;
 namespace TestNinja.UnitTests
 {
     // Naming: Method_Scenario_ReturnValue
-    // IS USING MSTESTS
+    // IS USING NUnit
     [TestFixture]
     public class ReservationTests
     {
